@@ -11,14 +11,11 @@
     "progressive",
     "react-native"
   ],
-  "dependencies": {
-    "prop-types": "^15.6.2",
-  },
   "license": "MIT",
   "author": "Dylan Vann <dylan.vann@gmail.com> (dylanvann.com)",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ShuaibMalik1/react-native-progressive-image.git"
+  "repository": "DylanVann/react-native-progressive-image",
+  "dependencies": {
+    "prop-types": "^15.6.2"
   }
 }
